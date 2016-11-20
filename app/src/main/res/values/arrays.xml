@@ -8,16 +8,23 @@
         <item>Pantai Sipelot</item>
         <item>Pantai Balekambang</item>
         <item>Pantai Ngeliyep</item>
+        <item>Pulau Sempu</item>
+        <item>Batu Night Spectacular</item>
+        <item>Secret Zoo</item>
+        <item>Kebun Teh Wonosari </item>
     </string-array>
     <string-array name="place_desc">
-        <item>The Palais Garnier which locates in Paris was built from 1861 for
-        the Paris Opera.
-        </item>
-        <item>Piazza del Duomo the cathedral which locates in Florence.</item>
-        <item>Manhattan is the district in New York City</item>
-        <item>Senso-ji is the Shrine locates in Asakusa Tokyo</item>
-        <item>Sultan Ahmed Mosque is mosque locates in Istabul, Turkey</item>
-        <item>Table Mountain is mountain and park locates in Cape Town, South Africa.</item>
+        <item>Air terjun cantik di Pujon Malang.</item>
+        <item>Jelajahi jejak sejarah otomotif yang tak akan terasa membosankan.</item>
+        <item>Menikmati kecantikan alam dari atas rumah.</item>
+        <item>Anda mempunyai nyali besar? Coba menantang “maut” di Wisata Paralayang.</item>
+        <item>Nikmati Pantai Sipelot yang belum terjamah.</item>
+        <item>Mengunjungi pantai balekambang, tanah lot-nya jawa timur.</item>
+        <item>Mencari ketenangan ala pulau lombok di pantai ngeliyep</item>
+        <item>Kecantikan Segara Anakan yang susah dijamah</item>
+        <item>Nikmati malam anda di Batu Night Spectacular</item>
+        <item>Datangi kebun binatang yang dirawat secara apik di Secret Zoo</item>
+        <item>Anda juga bisa merasakan sensasi memetik teh di Kebun Teh Wonosari Malang</item>
     </string-array>
     <string-array name="place_details">
         <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
@@ -71,14 +78,7 @@
         <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
         <item>Cape Town, South Africa</item>
     </string-array>
-    <array name="place_avator">
-        <item>@drawable/a_avator</item>
-        <item>@drawable/b_avator</item>
-        <item>@drawable/c_avator</item>
-        <item>@drawable/d_avator</item>
-        <item>@drawable/e_avator</item>
-        <item>@drawable/f_avator</item>
-    </array>
+
     <array name="places_picture">
         <item>@drawable/a</item>
         <item>@drawable/b</item>
@@ -86,5 +86,10 @@
         <item>@drawable/d</item>
         <item>@drawable/e</item>
         <item>@drawable/f</item>
+        <item>@drawable/g</item>
+        <item>@drawable/h</item>
+        <item>@drawable/i</item>
+        <item>@drawable/j</item>
+        <item>@drawable/k</item>
     </array>
 </resources>
