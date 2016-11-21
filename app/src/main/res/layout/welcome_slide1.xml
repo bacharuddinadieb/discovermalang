@@ -7,14 +7,15 @@
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
         android:gravity="center_horizontal"
         android:orientation="vertical">
 
         <ImageView
             android:layout_width="@dimen/img_width_height"
-            android:layout_height="@dimen/img_width_height"
-            android:src="@drawable/ic_food" />
+            android:layout_height="@dimen/img_width_height" />
 
         <TextView
             android:layout_width="wrap_content"
