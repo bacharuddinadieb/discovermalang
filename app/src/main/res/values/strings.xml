@@ -15,4 +15,25 @@
         deserunt mollit anim id est laborum.
     </string>
     <string name="detail_location">"8 Rue Scribe, 75009 Paris, France"</string>
+
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Selamat Datang</string>
+    <string name="slide_1_desc">Ini adalah logo aplikasi kita yang begitu klasik dan elegan</string>
+
+    <string name="slide_2_title">Pemandangan</string>
+    <string name="slide_2_desc">Disini kamu akan menemukan tempat wisata didaerah malang</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Tetaplah berhati-hati, ikuti semua aturan yang ada dan tetap jaga kebersihan</string>
+
+    <string name="slide_4_title">Lets Go!</string>
+    <string name="slide_4_desc">Oke,mari kita berpetualang!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
 </resources>
