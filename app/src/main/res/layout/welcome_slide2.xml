@@ -14,7 +14,9 @@
         <ImageView
             android:layout_width="@dimen/img_width_height"
             android:layout_height="@dimen/img_width_height"
-            android:src="@drawable/ic_movie" />
+            android:background="@color/abc_background_cache_hint_selector_material_light"
+            android:src="@drawable/ic_satellite_black_24dp"
+            android:tint="@color/white" />
 
         <TextView
             android:layout_width="wrap_content"
