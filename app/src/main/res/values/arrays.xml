@@ -14,69 +14,117 @@
         <item>Kebun Teh Wonosari </item>
     </string-array>
     <string-array name="place_desc">
-        <item>Air terjun cantik di Pujon Malang.</item>
-        <item>Jelajahi jejak sejarah otomotif yang tak akan terasa membosankan.</item>
-        <item>Menikmati kecantikan alam dari atas rumah.</item>
-        <item>Anda mempunyai nyali besar? Coba menantang “maut” di Wisata Paralayang.</item>
-        <item>Nikmati Pantai Sipelot yang belum terjamah.</item>
-        <item>Mengunjungi pantai balekambang, tanah lot-nya jawa timur.</item>
-        <item>Mencari ketenangan ala pulau lombok di pantai ngeliyep</item>
-        <item>Kecantikan Segara Anakan yang susah dijamah</item>
-        <item>Nikmati malam anda di Batu Night Spectacular</item>
-        <item>Datangi kebun binatang yang dirawat secara apik di Secret Zoo</item>
-        <item>Anda juga bisa merasakan sensasi memetik teh di Kebun Teh Wonosari Malang</item>
+        <item>Air terjun cantik</item>
+        <item>Jejak sejarah otomotif</item>
+        <item>Alam dari atas rumah.</item>
+        <item>Nyali besar? Coba menantang “maut”</item>
+        <item>Nikmati Pantai Sipelot.</item>
+        <item>Tanah lot-nya jawa timur.</item>
+        <item>Mencari ketenangan ala pulau lombok</item>
+        <item>Kecantikan Segara Anakan</item>
+        <item>Nikmati malam anda</item>
+        <item>Kebun binatang keren</item>
+        <item>Rasakan sensasi memetik teh</item>
     </string-array>
     <string-array name="place_details">
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Mungkin bagi kamu yang sudah pernah jalan-jalan di Malang nama Coban Rondo
+            bukanlah namayang asing lagi. Ya Coban Rondo merupakan salah satu dari sekian banyak
+            objek wisata yang ada di sana. Coban Rondo sendiri memiliki arti tersendiri dalam
+            bahasa Jawa. Coban dalam bahasa Jawa memiliki arti air terjun dan Rondo berarti Janda.
+            Bagi kamu yang tertarik ayo kesini!
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Bagi kamu yang gak terlalu suka sama museum kayaknya harus sedikit bernegoisasi
+            dengan museum yang satu ini deh. Soalnya museum ini memiliki konsep yang berbeda jika
+            dibandingkan dengan museum yang ada pada umumnya. Jika museum lain menawarkan
+            benda-benda bersejarah kaya batu-batuan zaman purbakala, alat makan zaman dulu,
+            atau mungkin senjata perang, museum ini mengoleksi mobil-mobil tua yang otentik banget.
+            Gak cuma mobil-mobil tua dari berbagai benua seperti Eropa, Amerika, atau Asia saja
+            di museum ini bahkan mengoleksi kendaraan-kendaaran zaman baheula seperti kereta yang
+            ditarik oleh kuda dan sapi.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Omah kayu sebenarnya adalah penginapan dengan konsep mirip rumah pohon. Dengar-dengar
+            sih harga menginap di sini per malamnya sekitar Rp.250.000-Rp.300.000. Di sini
+            pengunjung bisa melihat pemandangan area persawahan dari ketinggian. Semilir angin
+            khas Kota Malang menambah nilai kenikmatan nongkrong di rumah kayu tersebut. So bagi
+            kamu yang sedang atau berencana berlibur di Malang jangan lupa masukkin tempat ini
+            ke dalam objek wisata yang harus kamu datangi ya.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Paralayang termasuk salah satu cabang olahraga ekstrem, itu kenapa wisata ini bisa
+            juga disebut sebagai wisata menantang “maut”. Tapi bagi kamu adrenaline junkie tentunya
+            berada di ketinggian sambil melihat panorama alam bukanlah hal yang menakutkan kan?
+            Maka dari itu sayang banget dong kalau kamu sudah ada di Malang dan melewatkan terbang
+            tinggi di langit Kota Apel tersebut. Untuk bisa merasakan serunya berdansa dengan
+            ketinggian ini kamu bisa mendatangi salah satu penyedia jasa paralayang.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Di Malang ada banyak pantai terkenal dan belum terkenal yang wajib “dinikmati”
+            keindahannya oleh para turis pecinta wisata pantai. Salah satu pantai yang istilahnya
+            masih “virgin” adalah Pantai Sipelot. Sayangnya kamu tidak bisa berenang di pantai
+            tersebut karena ombaknya tinggi sehingga cukup berbahaya. Tapi meskipun tidak bisa
+            berenang nilai plus lainnya yang dimiliki pantai ini adalaha adanya Coban Sipelot,
+            yakni air terjun yang tingginya sekitar 10 meter.
         </item>
-        <item>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-        irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-        deserunt mollit anim id est laborum.
+        <item>Berkunjung ke Pantai Balekambang akan mengingatkan kita pada bentuk salah satu
+            pantai di Pulau Dewata yakni Tanah Lot. Hal yang membuat pantai ini memiliki
+            kemiripan dengan Pantai Tanah Lot adalah keberadaan pura yang terletak di tengah laut.
+            Jadi bagi kamu yang ingin berkenalan atau ngecengin masyakarakat lokal bisa nih datang
+            ke tempat ini. Siapa tahu ketemu jodoh ya kaan?.
+        </item>
+        <item>
+            Gak perlu harus jauh-jauh ke Lombok kalau memang budget kamu mepet. Jika ingin melihat
+            pantai berpasir putih di Malang juga ada kok.Selain pasir putihnya, keunikan pantai
+            ini adalah karena pantai tersebut terhitung masih sepi jika dibandingkan dengan pantai
+            lainnya di Jawa Timur . Kamu bisa bersantai sembari menikmati deburan ombak yang datang
+            di antara batu karang di tengah lautan.
+        </item>
+        <item>
+            Nama Pulau Sempu beberapa waktu terakhir ini memang lagi “naik daun”. Ada banyak
+            traveler yang datang ke sana untuk bisa melihat pesona Pulau Sempu yang banyak
+            dibicarakan tersebut.Terus memang biasanya ngapain kalau ke sana? Banyak traveler
+            yang datang ke sana untuk camping di pantai yang bernama Segara Anakan. Segara Anakan
+            adalah pantai tersembunyi yang terletak di tengah pulau yang dikelilingi dengan
+            tebing gitu. Kalau dilihat sekilas sih mirip dengan Pantai Phuket, ya gak?.
+        </item>
+        <item>
+            Batu Night Spectacular (BNS) adalah salah satu taman rekreasi yang sangat terkenal.
+            Alasannya apalagi kalau bukan karena kekerenan taman rekreasi ini terutama jika kamu
+            mengujunginya pada malam hari. Berbagai wahana menari seperti sepeda terbang (dari sini
+            kamu bisa menikmati city light Kota Malang), tampan lampion yang romantis banget,
+            trampolin, dan masih banyak lagi. Selain berbagai wahana menarik tersebut pengunjung
+            juga bisa berbelanja oleh-oleh di night market yang ada di sepanjang jalan menuju
+            pintu keluar. Tersedia juga food court yang siap melayani pengunjung yang kelaparan
+            setelah bermain di BNS.
+        </item>
+        <item>
+            Image kebun binatang yang terkesan tidak terurus di Indonesia akan sirna kalau kamu
+            sudah pernah ke Secret Zoo. Di kebun binatang ini kamu bisa melihat berbagai koleksi
+            binatang yang langsung didatangkan dari berbagai benua seperti Amerika dan Afrika.
+            Konsep yang terorganisir membuat pengunjung bisa dengan mudah melihat semua koleksi
+            binatang secara keseluruhan. Secret Zoo yang diresmikan pada tahun 2010 ini berada
+            pada luas area 14 hektar memang sangat cocok dikunjungi jika kamu sedang liburan ke
+            Malang baik bersama keluarga atau pun teman-teman.
+        </item>
+        <item>
+            Bisa dibilang Malang adalah kota wisata yang super lengkap. Mau pantai banyak, gunung
+            dan bukit ada, wisata kota bisa, wisata religi tersedia, bahkan sampai wisata kebun
+            teh pun dia punya. Kalau kamu berminat wisata kebun teh ada nih namanya Kebun Teh
+            Wonosari Malang. Di sini pengunjung bisa berjalan-jalan di kebun teh, melihat
+            pengolahan teh, bahkan juga menikmati teh secara langsung. Di daerah kebun teh ini juga
+            kamu bisa berendam di kolam air panas, outbond, berkemah, bahkan sampai jalur pendakian
+            ke Gunung Arjo.
         </item>
     </string-array>
     <string-array name="place_locations">
-        <item>8 Rue Scribe, 75009 Paris, France</item>
-        <item>Piazza del Capitolo - 50122 Florence</item>
-        <item>New York City</item>
-        <item>2-3-1 Asakusa, Taitō-ku, Tokyo, Japan</item>
-        <item>At Meydanı No:7, 34122 Fatih/İstanbul, Turkey</item>
-        <item>Cape Town, South Africa</item>
+        <item>Desa Pandansari, Kecamatan Pujon, sekitar 12 KM dari Kota Batu.</item>
+        <item>Jl. Terusan Sultan Agung No2, Ngaglik, Kota Batu</item>
+        <item>Kota Batu, Malang</item>
+        <item>Daerah Batu, Malang</item>
+        <item>Desa Pujiharjo, Kabupaten Malang</item>
+        <item>Dusun Sumber Jambe, Desa Srigonco, Kecamatan Batur, Malang</item>
+        <item>Desa Kedungsalam, Donomulyo, Malang</item>
+        <item>Desa Tambak Rejo, Kec. Sumbermanjing Wetan</item>
+        <item>Jl. Hayam Wuruk no 1, Oro-oro Ombo, Batu</item>
+        <item>Jl. Oro-oro Ombo no 9, Batu</item>
+        <item>Toyomarto, Singosari, Malang</item>
     </string-array>
 
     <array name="places_picture">
